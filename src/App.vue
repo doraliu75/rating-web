@@ -21,6 +21,9 @@ export default {
 body {
   //background-color: #999;
   background-color: #0071c5;
+  --azure-blue: #0071c5;
+  --azure-green: #4e7200;
+  --azure-orange: #c72b00;
   line-height: 1;
 }
 
